@@ -1,5 +1,5 @@
 ## Hi there 👋 🐘
-### We're Soongsil Univ. students preparing to be Web Developer 🛠
+### We're Soongsil Univ. students preparing to be a Web Developer 🛠
 
 #### 🏫 Majoring in ...
 ✏️ Global School of Media <br>
