@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋 🐘
+### We're Soongsil Univ. students preparing to be Web Developer 🛠
+
+#### 🏫 Majoring in ...
+✏️ Global School of Media <br>
+✏️ School of Computer Science and Engineering
 
 <!--
 
